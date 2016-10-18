@@ -27,7 +27,7 @@ Before you start you have to update `config.lua` file and set WiFi credentials:
 module.SSID["NAME"] = "PASSWORD"
 ```
 
-Connect your NodeMCU to USB port and upload all lua scripts (`/dev/cu.wchusbserial1410` - your device name might be have different name)
+Connect your NodeMCU to USB port and upload all lua scripts (`/dev/cu.wchusbserial1410` - your device name might be different)
 
 ```
 $ nodemcu-tool --port /dev/cu.wchusbserial1410 upload src/*.lua
