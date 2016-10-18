@@ -63,3 +63,7 @@ Happy Hacking.
 
 - [NodeMCU Lua Guide](https://github.com/WATTx/iot-esp8266-lua-guide)
 - Code based on this [article](http://www.foobarflies.io/a-simple-connected-object-with-nodemcu-and-mqtt/)
+
+#### License
+
+This project is distributed under the MIT license.
