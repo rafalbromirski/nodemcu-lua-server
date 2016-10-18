@@ -2,7 +2,7 @@
 
 IoT Webserver for NodeMCU (written in Lua)
 
-### Setup
+## Setup
 
 If you don't have any experience with ESP8266 and Lua, please check: [IoT Esp8266 Lua Guide](https://github.com/WATTx/iot-esp8266-lua-guide)
 
@@ -19,7 +19,7 @@ If you don't have any experience with ESP8266 and Lua, please check: [IoT Esp826
   luarocks install luacheck
   ```
 
-### Configuration
+## Configuration
 
 Before you start you have to update `config.lua` file and set WiFi credentials:
 
@@ -59,11 +59,11 @@ Follow the instruction and open your browser with given IP address:
 
 Happy Hacking.
 
-#### Resources:
+### Resources:
 
 - [NodeMCU Lua Guide](https://github.com/WATTx/iot-esp8266-lua-guide)
 - Code based on this [article](http://www.foobarflies.io/a-simple-connected-object-with-nodemcu-and-mqtt/)
 
-#### License
+## License
 
 This project is distributed under the MIT license.
